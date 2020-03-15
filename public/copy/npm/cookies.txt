@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.npmjs.com	TRUE	/	FALSE	1999999999	__cfduid	d2042dd85942ed4186e30e835c6da6af11582578475
+.hs-scripts.com	TRUE	/	FALSE	1999999999	__cfduid	d4852ed61dac72ae310c731e9713793751582578480
+js.hs-scripts.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.npmjs.com	TRUE	/	FALSE	1999999999	cs	QAlbxZ80cjMXbnmSKN9tOw_5Vylqz8Hbek_KnIPiKd8
+www.npmjs.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+.npm.red	TRUE	/	FALSE	1999999999	__cfduid	dd269cdb0ea68618ba1f8dee1d860ae501582578623
+static.npm.red	TRUE	/	FALSE	1999999999	SameSite	Lax
+

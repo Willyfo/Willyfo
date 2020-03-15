@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Feb 2020 22:07:55 at https://www.npmjs.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.npmjs.com/ -O1 "C:\Users\Luken\Desktop\npm copia\npm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:09:03	Warning: 	Found for https://www.npmjs.com/resources/
+22:09:03	Warning: 	File has moved from https://www.npmjs.com/resources/ to /resources
+22:09:46	Warning: 	Found for https://www.npmjs.com/policies/
+22:09:46	Warning: 	File has moved from https://www.npmjs.com/policies/ to /policies
+22:10:05	Error: 	"Not Found" (404) at link https://www.npmjs.com/package/minicssextractbug.a5806130b76245a22a27.js (from https://www.npmjs.com/)
+22:10:07	Error: 	"Not Found" (404) at link https://www.npmjs.com/products/minicssextractbug.a5806130b76245a22a27.js (from https://www.npmjs.com/products/pro)
+22:10:26	Error: 	Exit requested by shell or user
+22:10:26	Warning: 	File not added due to mirror cancel: https://static.npmjs.com/attachments/cjsdtiork1uv0r174s9evdnvb-security.full.png
+22:10:27	Warning: 	Link https://www.npmjs.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:10:27	Error: 	"Not Found" (404) at link https://www.npmjs.com/{} (from https://www.npmjs.com/events)
+22:10:27	Error: 	"Not Found" (404) at link https://www.npmjs.com/policies/{} (from https://www.npmjs.com/policies/terms)
+22:10:27	Error: 	"Not Found" (404) at link https://www.npmjs.com/policies/minicssextractbug.a5806130b76245a22a27.js (from https://www.npmjs.com/policies/terms)
+22:10:28	Error: 	"Not Found" (404) at link https://www.npmjs.com/signup/minicssextractbug.a5806130b76245a22a27.js (from https://www.npmjs.com/signup/common-passwords)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 33 seconds : 149 links scanned, 140 files written (10216844 bytes overall) [8341463 bytes received at 54519 bytes/sec], 3152160 bytes transferred using HTTP compression in 90 files, ratio 27%, 8.8 requests per connection
+(7 errors, 6 warnings, 0 messages)
